@@ -7,3 +7,4 @@ def check_password(password):
 
 password = input("Enter your password: ")
 check_password(password)
+#thankyou
